@@ -47,4 +47,3 @@ public class AudioManager : MonoBehaviour // Dieses Script steuert die Musik und
         sfxSource.PlayOneShot(popClip);
     }
 }
-s
